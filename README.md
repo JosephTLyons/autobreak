@@ -17,4 +17,5 @@ A short description of your package.
 - Deal with the case of inserting text and with deleting text
 - Add check point before and after so that command undo can fix whatever is
   changed via this package.
+- Is there a way to get the newline from the package?
 - Use disposable to unsubscribe from onDidChange()

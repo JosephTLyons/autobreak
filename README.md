@@ -18,5 +18,8 @@ A short description of your package.
 - Add check point before and after so that command undo can fix whatever is
   changed via this package.
 - Is there a way to get the newline from the package?
+    - Replace all newline insertions with the default newline the user is using
+    - Note that inserting the text into the buffer will automatically normalize
+      line endings
 - Use disposable to unsubscribe from onDidChange()
     - https://blog.atom.io/2014/09/16/new-event-subscription-api.html ??

@@ -19,3 +19,4 @@ A short description of your package.
   changed via this package.
 - Is there a way to get the newline from the package?
 - Use disposable to unsubscribe from onDidChange()
+    - https://blog.atom.io/2014/09/16/new-event-subscription-api.html ??

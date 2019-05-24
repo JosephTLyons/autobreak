@@ -15,6 +15,8 @@ A short description of your package.
 - Can we make this more efficient by storing some variables globally instead of
   calling the methods for each key press
 - Deal with the case of inserting text and with deleting text
+- Deal with inserting text when cursor is directly behind another word (use
+  Cursor Position Details methods)
 - Add check point before and after so that command undo can fix whatever is
   changed via this package.
 - Is there a way to get the newline from the package?

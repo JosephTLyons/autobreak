@@ -23,5 +23,3 @@ A short description of your package.
     - Replace all newline insertions with the default newline the user is using
     - Note that inserting the text into the buffer will automatically normalize
       line endings
-- Use disposable to unsubscribe from onDidChange()
-    - https://blog.atom.io/2014/09/16/new-event-subscription-api.html ??

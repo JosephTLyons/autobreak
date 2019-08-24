@@ -4,6 +4,14 @@
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [
+     "autobreak",
+     "automatic",
+     "break",
+     "line",
+     "new",
+     "newline",
+     "processor",
+     "word"
   ],
   "repository": "https://github.com/JosephTLyons/autobreak",
   "license": "MIT",

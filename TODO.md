@@ -19,16 +19,21 @@
 ## Cases to Address
 
 - [X] Case 1:
+
 ![Case 1](cases_gif/case_1.gif)
 
 - [ ] Case 2a:
+
 ![Case 2a](cases_gif/case_2a.gif)
 
 - [ ] Case 2b:
+
 ![Case 2b](cases_gif/case_2b.gif)
 
 - [ ] Case 3a:
+
 ![Case 3a](cases_gif/case_3a.gif)
 
 - [ ] Case 3b:
+
 ![Case 3b](cases_gif/case_3b.gif)

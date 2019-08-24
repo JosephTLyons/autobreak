@@ -3,10 +3,10 @@
 - Only activate on plaintext formats (.txt, .md, etc.).  Give user a setting to
   add their own file formats that `autobreak` should work on.
 - Enabling and Disabling don't seem to work.
-- Can we make this more efficient by storing some variables inside the function
-  `checkIfShouldBreakLines()` globally, so they do not have to be recalculated
-  with every keystroke.
-- Add check point before and after so that command undo can fix whatever is
+- Can we make this more efficient by moving some of the variables within the
+  `checkIfShouldBreakLines()` function to global scope so that they are not
+  recalculated each keystroke?
+- Add checkpoints before and after so that command undo can fix whatever is
   changed via this package (can't seem to get this to work properly).
 - Is there a way to get the type of newline being used from the
   `line-ending-selector` package?  This is what should be inserted by default

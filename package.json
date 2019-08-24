@@ -3,6 +3,11 @@
   "main": "./lib/autobreak",
   "version": "0.0.0",
   "description": "A short description of your package",
+  "activationHooks": [
+    "language-gfm:grammar-used",
+    "language-markdown:grammar-used",
+    "language-text:grammar-used"
+  ],
   "keywords": [
      "autobreak",
      "automatic",

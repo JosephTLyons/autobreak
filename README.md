@@ -6,7 +6,7 @@ text by inserting a newline character.  It allows you to write fluently, keeping
 you from having to manually "walk" the cursor back to the beginning of a word
 that crossed your Preferred Line Length setting and pressing the enter key.
 
-## `text-align` in Action:
+## `autobreak` in Action:
 
 ![Case 1](case_1.gif)
 

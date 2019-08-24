@@ -8,6 +8,7 @@ that crossed your Preferred Line Length setting and pressing the enter key.
 
 ## `autobreak` in Action:
 
-![Case 1](case_1.gif)
+Change this .gif to a full demo when all features are implemented
+![Case 1](cases_gif/case_1.gif)
 
-Note: change this .gif to a full demo when all features are implemented
+Fill out the rest of this README.md as usual.

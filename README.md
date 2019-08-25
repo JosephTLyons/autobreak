@@ -1,5 +1,15 @@
 # autobreak
 
+<!-- Uncomment after publishing -->
+
+<!-- [![autobreak version badge](https://badgen.net/apm/version/autobreak)](https://atom.io/packages/autobreak)
+
+[![autobreak download badge](https://badgen.net/apm/dl/autobreak)](https://atom.io/packages/autobreak)
+
+[![autobreak stars badge](https://badgen.net/apm/stars/autobreak)](https://atom.io/packages/autobreak)
+
+Add badge for forks -->
+
 `autobreak` is a tool intended to help those who enjoy writing documentation
 with [Atom](https://atom.io).  `autobreak` will automatically break lines of
 text by inserting a newline character.  It allows you to write fluently, keeping

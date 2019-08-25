@@ -15,6 +15,7 @@
       line endings, so I probably don't have to worry about this too much.
 - Mention in README.md, this does not support multiple cursors!
 - Address all cases listed below and check for others.
+- Give credit to those who helped at Atom Discuss
 
 ## Cases to Address
 
